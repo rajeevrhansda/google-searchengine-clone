@@ -1,4 +1,11 @@
 # Getting Started with Create React App
+Build and Deploy Google Search 2.0 with React & Tailwind CSS
+
+With the ability to search for up-to-date results, news, images, and videos, modern UI, dark mode, this completely responsive Google Clone.
+
+React Best Practices, the creation of modern user interfaces using Tailwind CSS and most importantly, how to fetch data from Google Search API using RapidAPI.
+
+Youtube link : https://www.youtube.com/watch?v=NDbruK1fzG8&t=17s
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
